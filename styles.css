@@ -1,0 +1,26 @@
+.issue-card {
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+}
+
+.issue-card:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.issue-card .card-body {
+    padding: 20px;
+}
+
+.issue-card .card-title {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.issue-card .card-text {
+    font-size: 16px;
+}
+
+.navbar-brand {
+    font-size: 24px;
+}
