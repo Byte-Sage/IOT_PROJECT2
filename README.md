@@ -4,6 +4,6 @@
 - Manage ticketing issues from students
   
 ## Contributors
-- Myself Byte-Sage (Github) -> Software and Hardware Integration, Data management and resources.
+- Myself, Byte-Sage (Github) -> Software and Hardware Integration, Data management and resources.
 - SpeedyG3 (Github) -> Software Frontend CSS(Bootstrap) and Backend (Python, flask and sqlite3). 
-- (Github) -> Hardware Circuity and Backend.
+- diwakar-bhadriraju (Github) -> Hardware Circuity and Backend.
